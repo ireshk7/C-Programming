@@ -1,0 +1,1 @@
+cout<<"The Total no of Digits are "<<count<<endl;
