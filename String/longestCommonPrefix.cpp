@@ -8,7 +8,7 @@ int main(){
     v.push_back("flower");
     v.push_back("flow");
     v.push_back("flight");
-
+    //lexographically according to ascii 
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<endl;
     }
